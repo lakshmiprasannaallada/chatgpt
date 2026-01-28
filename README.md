@@ -1,2 +1,2 @@
 # chatgpt
-Reslove queries of users related to any domain
+Resolve queries of users related to any domain
